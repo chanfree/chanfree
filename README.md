@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanfree
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning scRNAseq...
+- 🌱 I’m currently learning scRNAseq, spatial transcriptomics ...
 
 
 <!---
