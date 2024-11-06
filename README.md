@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chanfree
+- 👋 Hi, I’m Zhongxu Chen @chanfree
 - 👀 I’m interested in bioinformatics.
 - 🌱 I’m currently learning scRNAseq, spatial transcriptomics ...
 
